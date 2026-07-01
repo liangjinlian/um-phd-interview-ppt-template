@@ -1,0 +1,583 @@
+body
+	{width:534px;
+	height:300px;}
+.TB
+	{mso-special-format:nobullet\2022;}
+.T
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#262626;
+	font-size:128%;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.BB
+	{mso-special-format:bullet\25CF;
+	font-family:Arial;}
+.B
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:64%;
+	mso-line-spacing:"130 0 -80";
+	mso-margin-left-alt:144;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.B1B
+	{mso-special-format:bullet\25CF;
+	font-family:Arial;}
+.B1
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:57%;
+	mso-line-spacing:"120 0 -48";
+	mso-margin-left-alt:432;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.B2B
+	{mso-special-format:bullet\25CF;
+	font-family:Arial;}
+.B2
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:57%;
+	mso-line-spacing:"120 0 -48";
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.B3B
+	{mso-special-format:bullet\009F;
+	font-family:Wingdings;}
+.B3
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:50%;
+	mso-line-spacing:"120 0 -24";
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.B4B
+	{mso-special-format:bullet\2022;
+	font-family:Arial;}
+.B4
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:50%;
+	mso-line-spacing:"120 0 -24";
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.NB
+	{mso-special-format:nobullet\2022;}
+.N
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:black;
+	mso-color-index:1;
+	font-size:42%;
+	mso-margin-left-alt:0;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;}
+.N1B
+	{mso-special-format:nobullet\2022;}
+.N1
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:black;
+	mso-color-index:1;
+	font-size:42%;
+	mso-margin-left-alt:288;
+	mso-text-indent-alt:288;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;}
+.N2B
+	{mso-special-format:nobullet\2022;}
+.N2
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:black;
+	mso-color-index:1;
+	font-size:42%;
+	mso-margin-left-alt:576;
+	mso-text-indent-alt:576;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;}
+.N3B
+	{mso-special-format:nobullet\2022;}
+.N3
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:black;
+	mso-color-index:1;
+	font-size:42%;
+	mso-margin-left-alt:864;
+	mso-text-indent-alt:864;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;}
+.N4N
+	{mso-special-format:nobullet\2022;}
+.N4
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:black;
+	mso-color-index:1;
+	font-size:42%;
+	mso-margin-left-alt:1152;
+	mso-text-indent-alt:1152;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;}
+.OB
+	{mso-special-format:nobullet\2022;}
+.O
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:black;
+	mso-color-index:1;
+	font-size:64%;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;}
+.O1
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:black;
+	mso-color-index:1;
+	font-size:64%;
+	mso-text-indent-alt:288;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;}
+.O2
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:black;
+	mso-color-index:1;
+	font-size:64%;
+	mso-text-indent-alt:576;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;}
+.O3
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:black;
+	mso-color-index:1;
+	font-size:64%;
+	mso-text-indent-alt:864;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;}
+.O4
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:black;
+	mso-color-index:1;
+	font-size:64%;
+	mso-text-indent-alt:1152;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;}
+.CBB
+	{mso-special-format:bullet\25CF;
+	font-family:Arial;}
+.CB
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:64%;
+	mso-line-spacing:"130 0 -80";
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.CB1
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:57%;
+	mso-line-spacing:"120 0 -48";
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.CB2
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:57%;
+	mso-line-spacing:"120 0 -48";
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.CB3
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:50%;
+	mso-line-spacing:"120 0 -24";
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.CB4
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:50%;
+	mso-line-spacing:"120 0 -24";
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.CTB
+	{mso-special-format:nobullet\2022;}
+.CT
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#262626;
+	font-size:128%;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.HB
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:64%;
+	mso-line-spacing:"130 0 -80";
+	mso-margin-left-alt:144;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.HB1
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:57%;
+	mso-line-spacing:"120 0 -48";
+	mso-margin-left-alt:432;
+	mso-text-indent-alt:288;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.HB2
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:57%;
+	mso-line-spacing:"120 0 -48";
+	mso-margin-left-alt:720;
+	mso-text-indent-alt:576;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.HB3
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:50%;
+	mso-line-spacing:"120 0 -24";
+	mso-margin-left-alt:1008;
+	mso-text-indent-alt:864;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.HB4
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:50%;
+	mso-line-spacing:"120 0 -24";
+	mso-margin-left-alt:1296;
+	mso-text-indent-alt:1152;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.QB
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:64%;
+	mso-line-spacing:"130 0 -80";
+	mso-margin-left-alt:144;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.QB1
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:57%;
+	mso-line-spacing:"120 0 -48";
+	mso-margin-left-alt:432;
+	mso-text-indent-alt:288;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.QB2
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:57%;
+	mso-line-spacing:"120 0 -48";
+	mso-margin-left-alt:720;
+	mso-text-indent-alt:576;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.QB3
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:50%;
+	mso-line-spacing:"120 0 -24";
+	mso-margin-left-alt:1008;
+	mso-text-indent-alt:864;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.QB4
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:50%;
+	mso-line-spacing:"120 0 -24";
+	mso-margin-left-alt:1296;
+	mso-text-indent-alt:1152;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.Tbl
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:64%;
+	mso-line-spacing:"130 0 -80";
+	mso-margin-left-alt:144;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.Tbl1
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:57%;
+	mso-line-spacing:"120 0 -48";
+	mso-margin-left-alt:432;
+	mso-text-indent-alt:288;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.Tbl2
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:57%;
+	mso-line-spacing:"120 0 -48";
+	mso-margin-left-alt:720;
+	mso-text-indent-alt:576;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.Tbl3
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:50%;
+	mso-line-spacing:"120 0 -24";
+	mso-margin-left-alt:1008;
+	mso-text-indent-alt:864;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.Tbl4
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	color:#595959;
+	font-size:50%;
+	mso-line-spacing:"120 0 -24";
+	mso-margin-left-alt:1296;
+	mso-text-indent-alt:1152;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;}
+.defaultB
+	{mso-special-format:nobullet\2022;}
+.default
+	{text-align:left;
+	font-family:"Futura Md BT";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Futura Md BT";
+	mso-hansi-font-family:Arial;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none;
+	text-shadow:none;
+	text-effect:none;
+	mso-fareast-hint:no;
+	layout-flow:horizontal;
+	color:black;
+	mso-color-index:1;
+	font-size:64%;
+	mso-text-raise:0%;
+	mso-line-spacing:"100 0 0";
+	mso-margin-left-alt:0;
+	mso-text-indent-alt:0;
+	mso-char-wrap:true;
+	mso-kinsoku-overflow:true;
+	direction:ltr;
+	mso-word-wrap:true;
+	mso-vertical-align-special:auto;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:ZH-CN;}
+a:link
+	{color:#0026E5 !important;}
+a:active
+	{color:#113F65 !important;}
+a:visited
+	{color:#7E1FAD !important;}
